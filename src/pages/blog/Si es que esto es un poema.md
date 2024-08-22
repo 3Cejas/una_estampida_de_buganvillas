@@ -1,7 +1,7 @@
 ---
 layout: '../../layouts/Post.astro'
 title: Si es que esto es un poema
-image: /images/castillo-hinchable
+image: /images/freelance
 publishedAt: "2024-8-22"
 category: 'Tres Cejas'
 ---
