@@ -1,0 +1,46 @@
+---
+import { Icon } from 'astro-icon'
+import { socials } from '../data/socials';
+---
+
+<ul class="social__list">
+  {socials.map((social, index) => (
+  <li>
+    <a href={social.url} title={`Mira el instagram de ${social.name}`}>
+      <Icon name={social.icon} width="24px" height="24px" class={`icon-${index + 1}`} />
+    </a>
+  </li>))}
+</ul>
+
+<style>
+  .social__list {
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    gap: 1rem;
+  }
+  .social__list li {
+    display: flex;
+    align-items: center;
+  }
+  .social__list li a {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    transition: opacity 0.2s ease;
+  }
+  .social__list li a:hover {
+    opacity: 0.8;
+  }
+  
+  /* Estilos específicos para el primer y segundo ícono */
+  .icon-1 {
+    color: blue;
+  }
+  
+  .icon-2 {
+    color: green;
+  }
+</style>
