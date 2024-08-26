@@ -12,9 +12,9 @@ Una nube de pensamiento invadió mi espacio aéreo.
 
 Frase recordada: Dos peones en progreso de la creación barnizan el sol.
 
-Jugar en la imaginación, entretenerse en ella hasta superdotarla
+Jugar en la imaginación, entretenerse en ella hasta superdotarla.
 
-Superdótame, Carla, superdótame de sentimientos hacia ti.
+Superdótame, (alguien), superdótame de sentimientos hacia ti.
 
 Sentimientos que me puedan permitir levantarme de la cama, lavarme los dientes, planchar las camisas y los dientes de león contra las páginas de los libros.
 
