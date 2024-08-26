@@ -22,7 +22,7 @@ Quiero que seas mi contacto de emergencia.
 
 Y hacerle saber al tiempo la forma de mi futuro contigo.
 
-Y el tiempo me escuchara maternalmente, dejándome creer que me hará caso.
+Y el tiempo me escuchará maternalmente, dejándome creer que me hará caso.
 
 Soy un soñador.
 
