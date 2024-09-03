@@ -12,7 +12,7 @@ Una lancha motora
 
 Una loca a motor
 
-Me Suipeo
+Me suipeó
 
 y del golpe
 
