@@ -82,11 +82,11 @@ por pequeñas luchas grandes
 
 Por este nuevo elemento se deben
 
-construir alianzas reversible y traiciones leales
+construir alianzas reversibles y traiciones leales
 
 Con él
 
-creamos un juego de mesa inmenso de obligada participación
+crearemos un juego de mesa inmenso de obligada participación
 
 Deberás comer en él
 

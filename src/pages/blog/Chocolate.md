@@ -1,100 +1,80 @@
 ---
 layout: '../../layouts/Post.astro'
-title: Nuevo elemento
-image: /images/nuevoelemento
-publishedAt: "2024-9-16"
+title: Chocolate
+image: /images/Chocolate
+publishedAt: "2024-9-23"
 category: 'Tres Cejas'
 ---
 
-Revientan los plomos de la tabla periódica
+*the only difference*
 
-Nos hemos quedado sin el elemento que daba peso a la Tierra
+*between*
 
-Se buscan elementos nuevos que puedan dar peso a la existencia humana
+*eating pussy*
 
-Será la nueva moneda
+*and*
 
-Será el nuevo oro
+*eating shit*
 
-el nuevo deseo
+*is 1 cm approx.*
 
-Billete de todas las fantasías
 
-El color de Mickey Mouse será del color
+Choco-choco
 
-de este nuevo elemento
+La-la
 
-Pero debe cumplir las siguientes condiciones:
+Choco-choco
 
-Dúctil
+Te-te
 
-Viejo
+Choco-la
 
-PRAM
+Choco-te
 
-Abrazable
+Chocolatéame la cara
 
-Reutilizable
+Haz una pelota de saliva
 
-Férreo
+flujo vaginal y mierda
 
-Almacenable
+para que pueda comérmela
 
-Romántico
+como un exquisito ñoqui
 
-Ligero
+como un cereal sagrado
 
-Susceptible a la nostalgia
+del sabor de tu intestino
 
-Con relieve
+He puesto el mantel más
 
-Bonito
+exquisito, impermeable
 
-Roñoso
+sobre la cama para un picnic
 
-Relajado
+al libre aire de tus pedos
 
-Algo poético
+que resuenan como campanas
 
-Medible
+estallándose en mi nariz
 
-Vomitable
+Péeme, hazlo mío, péeme
 
-Elástico
+Péeme, Santa mía, péeme
 
-Denso
+para que pueda conocer
 
-Con un buen trato cara al público
+la intimidad de tu microbiota
 
-Este elemento nos ha de satisfacer a todos
+el buen hacer de tu culo
 
-o al menos ser democrático
+Déjame sentir lo que te hice de comer
 
-directa
+solo para que me hicieras de vientre
 
-o al menos
+Quiero llegar a los anales de tu vida
 
-parlamentariamente
+cuando seas una adorable viejecita
 
-Reducir nuestras grandes luchas pequeñas
+y me necesites cada día
 
-por pequeñas luchas grandes
-
-Por este nuevo elemento se deben
-
-construir alianzas reversible y traiciones leales
-
-Con él
-
-creamos un juego de mesa inmenso de obligada participación
-
-Deberás comer en él
-
-Follar sobre él
-
-Respirar de él
-
-Comerciar con el nuevo elemento que estamos buscando
-
-para no volver a perderlo.
-
+como un inefable pañal.
