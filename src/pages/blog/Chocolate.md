@@ -1,7 +1,7 @@
 ---
 layout: '../../layouts/Post.astro'
 title: Chocolate
-image: /images/Chocolate
+image: /images/chocolate
 publishedAt: "2024-9-23"
 category: 'Tres Cejas'
 ---
